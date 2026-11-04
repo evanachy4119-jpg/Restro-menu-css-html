@@ -10,17 +10,17 @@ This project was built to practice core Web Development principles, including HT
 
 ✨ Features
 
-🎨 Modern UI & Dark Overlay Hero: Fullscreen hero header (100vh) with a semi-transparent dark overlay for high contrast and modern visuals.
+* Modern UI & Dark Overlay Hero: Fullscreen hero header (100vh) with a semi-transparent dark overlay for high contrast and modern visuals.
 
-🧭 Navigation Header: Clean navigation bar with responsive alignment and custom styling for active/action menu items.
+* Navigation Header: Clean navigation bar with responsive alignment and custom styling for active/action menu items.
 
-🌀 Rotating Dish Animation: Smooth continuous 360-degree rotation animation (@keyframes) applied to the featured dish image.
+* Rotating Dish Animation: Smooth continuous 360-degree rotation animation (@keyframes) applied to the featured dish image.
 
-📐 Flexbox Alignment: Responsive flex alignment (justify-content: space-around, align-items: center) dividing content into structured sections.
+* Flexbox Alignment: Responsive flex alignment (justify-content: space-around, align-items: center) dividing content into structured sections.
 
-🎯 Customized CTA Button: Uniquely shaped "Book Table" Call-To-Action button utilizing asymmetric border-radius.
+* Customized CTA Button: Uniquely shaped "Book Table" Call-To-Action button utilizing asymmetric border-radius.
 
-🏷️ Font Awesome Icons: Integrated icon support for intuitive visual cues across the top navigation list.
+* Font Awesome Icons: Integrated icon support for intuitive visual cues across the top navigation list.
 
 📂 Project Structure
 
@@ -48,12 +48,6 @@ To get a local copy up and running, follow these simple steps:
 Prerequisites
 
 You only need a modern web browser (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge, Safari).
-
-Installation
-
-Clone the repository to your local machine:
-
-git clone https://github.com/your-username/restro-landing-page.git
 
 
 Navigate to the project directory:
